@@ -5,7 +5,7 @@ I'm a curious selflearner always looking for something new!
 
 <h2>Skills</h2>
 
-- 🐍 Python
+- 🐍 Python, Javascript
 - ⚙️ Next.js, Django
 - 👁️ HTML, CSS
 
