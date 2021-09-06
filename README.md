@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my Git! 🚀
+
+I'm a curious selflearner always looking for something new!
+I’m currently learning DataScience, focusing on using Python as main language.
+
+- Skills
+
+🐍 Python
+⚙️ Next.js, Django
+👁️ HTML, CSS
+
 
 <!--
 **panlimz/panlimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
