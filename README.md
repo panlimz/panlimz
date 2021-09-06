@@ -1,7 +1,7 @@
 ### Welcome to my Git! 🚀
 
 I'm a curious selflearner always looking for something new!
-I’m currently learning DataScience, focusing on using Python as main language.
+<br>I’m currently learning DataScience, using Python as main language.
 
 <h2>Skills</h2>
 
