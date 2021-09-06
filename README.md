@@ -3,11 +3,11 @@
 I'm a curious selflearner always looking for something new!
 I’m currently learning DataScience, focusing on using Python as main language.
 
-- Skills
+<h1>Skills</h1>
 
-🐍 Python
-⚙️ Next.js, Django
-👁️ HTML, CSS
+- 🐍 Python
+- ⚙️ Next.js, Django
+- 👁️ HTML, CSS
 
 
 <!--
