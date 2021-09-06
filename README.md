@@ -3,7 +3,7 @@
 I'm a curious selflearner always looking for something new!
 I’m currently learning DataScience, focusing on using Python as main language.
 
-<h1>Skills</h1>
+<h2>Skills</h2>
 
 - 🐍 Python
 - ⚙️ Next.js, Django
