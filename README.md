@@ -3,7 +3,7 @@
 #### I'm Pan! 
 A passionate selflearner from São Paulo always looking for new things to explore!
 <br>I’m currently learning DataScience, using Python as main language.
-<br>- 😄 Pronouns: she/her
+
 
 ### Languages and Tools
 <p align="left"> 
