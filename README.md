@@ -2,7 +2,7 @@
 
 #### I'm Pan! 
 A passionate selflearner from São Paulo always looking for new things to explore!
-<br>I’m currently learning DataScience, using Python as main language.
+<br>I’m a mechatronics technician, system analysis student and currently learning DataScience, using Python as main language.
 
 
 ### Languages and Tools
