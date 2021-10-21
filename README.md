@@ -17,6 +17,8 @@ A dedicated self-taught developer from São Paulo always looking for new things 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
  
+<h3><a href="https://panlimz.github.io/portfolio/" target="_blank">My Portfolio</a></h3>
+
 ### Contact me
 <div> 
   <a href="https://www.linkedin.com/in/paloma-souza-3591b653/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
