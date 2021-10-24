@@ -3,8 +3,7 @@
 <img src="https://camo.githubusercontent.com/6510c79f86cdd5e32cf6c5b009548bf09c137f06cffe87acbf41e68cbf0402c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966" align="right" width="300" alt="ful1e5 with halo" data-canonical-src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" style="max-width: 100%;">
 
 #### I'm Pan! 
-A dedicated self-taught developer from São Paulo always looking for new things to explore!
-<br>I’m a mechatronics technician, system analysis student and currently learning DataScience, using Python as main language.
+A self-taught developer from São Paulo currently learning Data Science and Web Applications, using Python as main language.
 
 ### Languages, Skills and Tools
 <p align="left"> 
